@@ -1,6 +1,7 @@
-Visual Studio Code
-`TAB` Para autocompletar
+### Visual Studio Code
 
+|`TAB`| Para autocompletar|
+|-----|-------------------|
 `COMMAND+B` Toggle bar
 
 `CMD+SHIFT+/` comentar/descomentar el bloque de código
