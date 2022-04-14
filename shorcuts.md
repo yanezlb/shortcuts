@@ -17,6 +17,8 @@
 
 ## iTerm/iTerm2
 
+|Shorcut/Hotkey| Descripción|
+|-----|-------------------|
 |`CMD+SHIFT+D`|Abrir un nuevo terminal Vertitalmente|
 |`CMD+SHIFT`| Abrir un nuevo terminal Horizontalmente|
 |`OPTION+CMD+DERECHA`| Moverse por los terminales en pantalla|
