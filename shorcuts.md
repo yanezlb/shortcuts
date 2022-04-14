@@ -13,7 +13,7 @@ Visual Studio Code
 
 `COMMAND+D` Selecciona palabra y va seleccionando las instancias dentro del mismo archivo
 
-COMMAND+L Selecciona toda la linea
+`COMMAND+L` Selecciona toda la linea
 
 `COMMAND+DERECHA` Para llegar al final de la línea
 
