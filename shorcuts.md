@@ -1,25 +1,24 @@
 ### Visual Studio Code
 
-|`TAB`| Para autocompletar|
+|Shorcut/Hotkey| Descripción|
 |-----|-------------------|
-`COMMAND+B` Toggle bar
+|`TAB`| Para autocompletar|
+|`COMMAND+B`| Toggle bar |
+|`CMD+SHIFT+/`| comentar/descomentar el bloque de código |
+|`SHIFT+OPTION+ARRIBA`| Clonar línea actual |
 
-`CMD+SHIFT+/` comentar/descomentar el bloque de código
+|`OPTION+COMMAND+ABAJO`| Clonar cursor |
 
-`SHIFT+OPTION+ARRIBA` Clonar línea actual
+|`OPTION+ARRIBA|` Mover la línea
 
-`OPTION+COMMAND+ABAJO` Clonar cursor 
+|`COMMAND+D|` Selecciona palabra y va seleccionando las instancias dentro del mismo archivo
 
-`OPTION+ARRIBA` Mover la línea
+|`COMMAND+L|` Selecciona toda la linea
 
-`COMMAND+D` Selecciona palabra y va seleccionando las instancias dentro del mismo archivo
+|`COMMAND+DERECHA|` Para llegar al final de la línea
 
-`COMMAND+L` Selecciona toda la linea
+|`OPTION+DERECHA|` Para moverse palabra por palabra
 
-`COMMAND+DERECHA` Para llegar al final de la línea
+|`OPTION+DERECHA+SHIFT|` Para moverse palabra por palabra y seleccionarla
 
-`OPTION+DERECHA` Para moverse palabra por palabra
-
-`OPTION+DERECHA+SHIFT` Para moverse palabra por palabra y seleccionarla
-
-`COMMAND+PP` Para moverse entre los archivos que están abiertos, el mas reciente
+|`COMMAND+PP|` Para moverse entre los archivos que están abiertos, el mas reciente
