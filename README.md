@@ -13,7 +13,8 @@
 |`⌘ + →`| Para llegar al final de la línea |
 |`⌥ + →`| Para moverse palabra por palabra |
 |`⌥ + → + ⇧`| Para moverse palabra por palabra y seleccionarla |
-|`⌘ + PP`| Para moverse entre los archivos que están abiertos, el mas reciente |       
+|`⌘ + PP`| Para moverse entre los archivos que están abiertos, el mas reciente |   
+|`⇧ + ⌥ + f`| Para formatear todo el documento |   
 
 ## iTerm/iTerm2
 
